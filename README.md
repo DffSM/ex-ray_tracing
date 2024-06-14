@@ -11,3 +11,6 @@ sudo python setup.py install
 https://drive.google.com/file/d/1NP-bmFUYaIZvIdCp8aw_XnQOdkf1PEKV/view?usp=sharing
 
 https://drive.google.com/file/d/109QDc1b3S5Xgvc5atIceiF3UE5bSu4A9/view?usp=sharing
+
+Cek Version(python, mpi, numpy, matplotlib)
+https://drive.google.com/file/d/17smzu5PBsa6bVVAxNytMiTnANMgi9vUs/view?usp=sharing
